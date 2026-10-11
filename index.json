@@ -1,0 +1,37 @@
+{
+  "name": "Hanis Extension Store",
+  "badgeLabel": "Hanis",
+  "signingKey": "1c84d468781b036c32a8654d3eda794dc0f1c22226e60431b990c8119d3ea7a9",
+  "contact": {
+    "website": "https://github.com/mincoding-1/Hanis-extension-store",
+    "discord": null
+  },
+  "extensionList": {
+    "extensions": [
+      {
+        "name": "ZZAP",
+        "packageName": "io.github.mincoding1.zzap",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/io.github.mincoding1.zzap-1.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/io.github.mincoding1.zzap-1.png"
+        },
+        "extensionLib": "17",
+        "versionCode": 1,
+        "versionName": "1.0.0",
+        "contentWarning": "CONTENT_WARNING_UNSPECIFIED",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 2263562710910906991,
+            "name": "ZZAP",
+            "language": "ko",
+            "homeUrl": "https://zzap208.com/",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
+      }
+    ]
+  },
+  "extensionListUrl": null
+}
