@@ -12,12 +12,12 @@
         "name": "ZZAP",
         "packageName": "io.github.mincoding1.zzap",
         "resources": {
-          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/io.github.mincoding1.zzap-5.apk",
-          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/io.github.mincoding1.zzap-5.png"
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/io.github.mincoding1.zzap-6.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/io.github.mincoding1.zzap-6.png"
         },
         "extensionLib": "17",
-        "versionCode": 5,
-        "versionName": "1.0.4",
+        "versionCode": 6,
+        "versionName": "1.0.5",
         "contentWarning": "CONTENT_WARNING_UNSPECIFIED",
         "isTorrent": false,
         "sources": [
