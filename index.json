@@ -9,6 +9,29 @@
   "extensionList": {
     "extensions": [
       {
+        "name": "Xvideos",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.xvideos",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/eu.kanade.tachiyomi.animeextension.all.xvideos-5.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/eu.kanade.tachiyomi.animeextension.all.xvideos-5.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 5,
+        "versionName": "14.5",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 8016727706963226859,
+            "name": "Xvideos",
+            "language": "all",
+            "homeUrl": "https://www.xvideos.com/",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
+      },
+      {
         "name": "ZZAP",
         "packageName": "io.github.mincoding1.zzap",
         "resources": {
