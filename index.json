@@ -76,6 +76,29 @@
             "message": null
           }
         ]
+      },
+      {
+        "name": "MissAV Hanis",
+        "packageName": "io.github.mincoding1.missav",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/io.github.mincoding1.missav-33.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/io.github.mincoding1.missav-33.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 33,
+        "versionName": "14.33",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 784356856653312497,
+            "name": "MissAV Hanis",
+            "language": "all",
+            "homeUrl": "https://missav123.com/",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
       }
     ]
   },
