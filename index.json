@@ -53,6 +53,29 @@
             "message": null
           }
         ]
+      },
+      {
+        "name": "HentaiHaven",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.hentaihaven",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/eu.kanade.tachiyomi.animeextension.en.hentaihaven-10.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/eu.kanade.tachiyomi.animeextension.en.hentaihaven-10.png"
+        },
+        "extensionLib": "16",
+        "versionCode": 10,
+        "versionName": "16.10",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 1700779054663752842,
+            "name": "HentaiHaven",
+            "language": "en",
+            "homeUrl": "https://hentaihaven.xxx/",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
       }
     ]
   },
