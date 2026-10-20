@@ -12,12 +12,12 @@
         "name": "Xvideos",
         "packageName": "eu.kanade.tachiyomi.animeextension.all.xvideos",
         "resources": {
-          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/eu.kanade.tachiyomi.animeextension.all.xvideos-6.apk",
-          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/eu.kanade.tachiyomi.animeextension.all.xvideos-6.png"
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/eu.kanade.tachiyomi.animeextension.all.xvideos-7.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/eu.kanade.tachiyomi.animeextension.all.xvideos-7.png"
         },
         "extensionLib": "14",
-        "versionCode": 6,
-        "versionName": "14.6",
+        "versionCode": 7,
+        "versionName": "14.7",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "isTorrent": false,
         "sources": [
