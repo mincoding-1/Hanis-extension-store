@@ -99,6 +99,29 @@
             "message": null
           }
         ]
+      },
+      {
+        "name": "hanime.tv",
+        "packageName": "eu.kanade.tachiyomi.animeextension.en.hanime",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/eu.kanade.tachiyomi.animeextension.en.hanime-25.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/eu.kanade.tachiyomi.animeextension.en.hanime-25.png"
+        },
+        "extensionLib": "14",
+        "versionCode": 25,
+        "versionName": "14.25",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 2649711761599612719,
+            "name": "hanime.tv",
+            "language": "en",
+            "homeUrl": "https://hanime.tv",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
       }
     ]
   },
