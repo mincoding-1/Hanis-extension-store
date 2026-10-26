@@ -58,12 +58,12 @@
         "name": "MissAV Hanis",
         "packageName": "io.github.mincoding1.missav",
         "resources": {
-          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/io.github.mincoding1.missav-38.apk",
-          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/io.github.mincoding1.missav-38.png"
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/io.github.mincoding1.missav-39.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/io.github.mincoding1.missav-39.png"
         },
         "extensionLib": "14",
-        "versionCode": 38,
-        "versionName": "14.38",
+        "versionCode": 39,
+        "versionName": "14.39",
         "contentWarning": "CONTENT_WARNING_NSFW",
         "isTorrent": false,
         "sources": [
