@@ -122,6 +122,29 @@
             "message": null
           }
         ]
+      },
+      {
+        "name": "OnAir",
+        "packageName": "eu.kanade.tachiyomi.animeextension.all.onair",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/eu.kanade.tachiyomi.animeextension.all.onair-2.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/eu.kanade.tachiyomi.animeextension.all.onair-2.png"
+        },
+        "extensionLib": "17",
+        "versionCode": 2,
+        "versionName": "0.1.1",
+        "contentWarning": "CONTENT_WARNING_UNSPECIFIED",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 1020844526456640216,
+            "name": "OnAir",
+            "language": "all",
+            "homeUrl": "https://github.com/mincoding-1/Hanis-extension-store",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
       }
     ]
   },
