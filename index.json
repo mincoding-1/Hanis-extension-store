@@ -145,6 +145,29 @@
             "message": null
           }
         ]
+      },
+      {
+        "name": "AV19",
+        "packageName": "io.github.mincoding1.av19",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/io.github.mincoding1.av19-3.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/io.github.mincoding1.av19-3.png"
+        },
+        "extensionLib": "17",
+        "versionCode": 3,
+        "versionName": "1.1.1",
+        "contentWarning": "CONTENT_WARNING_NSFW",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 8059684030932622540,
+            "name": "AV19",
+            "language": "ko",
+            "homeUrl": "https://av19t.com",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
       }
     ]
   },
