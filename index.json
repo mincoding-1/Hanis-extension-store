@@ -168,6 +168,29 @@
             "message": null
           }
         ]
+      },
+      {
+        "name": "KRadio",
+        "packageName": "eu.kanade.tachiyomi.animeextension.ko.kradio",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/eu.kanade.tachiyomi.animeextension.ko.kradio-1.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/eu.kanade.tachiyomi.animeextension.ko.kradio-1.png"
+        },
+        "extensionLib": "17",
+        "versionCode": 1,
+        "versionName": "0.1.0",
+        "contentWarning": "CONTENT_WARNING_SAFE",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 657590236152589547,
+            "name": "KRadio",
+            "language": "ko",
+            "homeUrl": "https://github.com/mincoding-1/Hanis-extension-store",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
       }
     ]
   },
