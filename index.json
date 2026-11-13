@@ -191,6 +191,29 @@
             "message": null
           }
         ]
+      },
+      {
+        "name": "Aniweek",
+        "packageName": "io.github.mincoding1.aniweek",
+        "resources": {
+          "apkUrl": "https://mincoding-1.github.io/Hanis-extension-store/apk/io.github.mincoding1.aniweek-1.apk",
+          "iconUrl": "https://mincoding-1.github.io/Hanis-extension-store/icon/io.github.mincoding1.aniweek-1.png"
+        },
+        "extensionLib": "17",
+        "versionCode": 1,
+        "versionName": "1.0.0",
+        "contentWarning": "CONTENT_WARNING_UNSPECIFIED",
+        "isTorrent": false,
+        "sources": [
+          {
+            "id": 4565983297271071094,
+            "name": "Aniweek",
+            "language": "ko",
+            "homeUrl": "https://aniweek.com/",
+            "mirrorUrls": [],
+            "message": null
+          }
+        ]
       }
     ]
   },
